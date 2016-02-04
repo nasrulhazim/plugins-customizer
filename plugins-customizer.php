@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Plugins Customizer
  * Plugin URI:        http://github.com/nasrulhazim/plugins-customizer
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       A simple plugin used for customizing other plugins view such as Polylang Selector.
  * Version:           1.0.0
  * Author:            Nasrul Hazim
  * Author URI:        http://blog.nasrulhazim.com
